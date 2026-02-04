@@ -1,0 +1,2 @@
+#To not push the exe files created while running the code locally
+*.exe
