@@ -47,5 +47,7 @@ Prints the evaluation result.
 ### (d) Sample Output
 
 Enter an infix expression (single-digit operands only): (2+3)*4
+
 Postfix Expression: 23+4*
+
 Evaluation Result: 20
