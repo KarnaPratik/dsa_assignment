@@ -51,5 +51,7 @@ Prints the original array, max heap, and min heap.
 ## (d) Sample output:
 
 Original Array: 10 3 5 1 8 6 
+
 Max Heap: 10 8 6 1 3 5
+
 Min Heap: 1 3 5 10 8 6

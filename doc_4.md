@@ -55,5 +55,7 @@ Displays the list after each operation.
 ## (d) Sample Output:
 
 Initial list: 10 20 30 
+
 After inserting 25 after 20: 10 20 25 30 
+
 After deleting 10: 20 25 30 
