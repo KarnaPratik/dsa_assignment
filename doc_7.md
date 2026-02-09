@@ -33,14 +33,11 @@ Prints the result.
 
 ## (d) Sample Output:
 
-Vertex  Distance from Source 0
+| Vertex | Distance from Source 0 |
+|---------|---------|
+| 0       | 0       |
+| 1       | 7       |
+|2        | 8       |
+|3        | 7       |
+|4        | 5       |
 
-0       0
-
-1       7
-
-2       8
-
-3       7
-
-4       5
